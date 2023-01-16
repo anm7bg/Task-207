@@ -198,7 +198,8 @@ html {
 }
 
 .card {
-  border: 10px solid grey;
+  border: 10px solid rgb(181, 181, 181);
+  box-sizing: content-box;
   width: 480px;
 }
 
