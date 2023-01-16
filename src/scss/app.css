@@ -199,8 +199,8 @@ html {
 
 .card {
   border: 10px solid rgb(181, 181, 181);
-  box-sizing: content-box;
-  width: 480px;
+  box-sizing: border-box;
+  width: 500px;
 }
 
 .card-header {
